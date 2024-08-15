@@ -14,12 +14,12 @@ This project investigates the emotional, physical, and social health outcomes of
 
 ## Methods
 
-- Data Source: NSOAAP survey responses
-- Tools Used: Python, Pandas, Numpy, Matplotlib, Seaborn, SciPy, statsmodels, scikit-learn
+- **Data Source**: NSOAAP survey responses
+- **Tools Used**: Python, Pandas, Numpy, Matplotlib, Seaborn, SciPy, statsmodels, scikit-learn
 
 ### Measures and Outcomes
-- Health Outcomes: Physical, emotional, and social health of caregivers.
-- Exposure Variable: Self-described race/ethnicity of caregivers.
+- **Health Outcomes**: Physical, emotional, and social health of caregivers.
+- **Exposure Variable**: Self-described race/ethnicity of caregivers.
 
 ### Key Findings
 A summary of main findings and results are included in the final report.
